@@ -1,1 +1,1 @@
-# performancetest
+# performance test script with JMeter
